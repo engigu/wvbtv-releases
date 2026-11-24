@@ -1,1 +1,1 @@
-# WVBTV Releases`n`nWVBTV (WebView Bili TV) 专为 Android TV / 电视机顶盒打造的哔哩哔哩第三方大屏客户端。`n`n## 📥 最新版本下载`n`n请前往本仓库右侧的 [Releases 页面](https://github.com/engigu/wvbtv-releases/releases) 获取最新编译签名的 APK 安装包。`n`n| 文件 | 说明 |`n| :--- | :--- |`n| `WVBTV-v*.apk` | 电视安装包 (支持 Android 5.0+) |`n| `WVBTV-v*.apk.sha256` | SHA256 完整性校验文件 |`n`n## 📺 电视安装方式`n`n1. **U 盘安装**：下载 Release 中的 `.apk` 文件，拷贝至 U 盘插入电视，在电视文件管理器中点击安装。`n2. **ADB 命令行安装**：`n   ```bash`n   adb connect <电视IP>:5555`n   adb install -r WVBTV-v*.apk`n   ```
+
